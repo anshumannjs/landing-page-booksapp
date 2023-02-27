@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/landing-page-booksapp/static/css/main.7f937d36.css",
-    "main.js": "/landing-page-booksapp/static/js/main.ee5bf55b.js",
+    "main.css": "/landing-page-booksapp/static/css/main.a99f0214.css",
+    "main.js": "/landing-page-booksapp/static/js/main.fb918ca8.js",
     "static/js/787.cda612ba.chunk.js": "/landing-page-booksapp/static/js/787.cda612ba.chunk.js",
     "static/media/pngfind.com-call-png-3044605.png": "/landing-page-booksapp/static/media/pngfind.com-call-png-3044605.43256c851671f083970c.png",
     "index.html": "/landing-page-booksapp/index.html",
-    "main.7f937d36.css.map": "/landing-page-booksapp/static/css/main.7f937d36.css.map",
-    "main.ee5bf55b.js.map": "/landing-page-booksapp/static/js/main.ee5bf55b.js.map",
+    "main.a99f0214.css.map": "/landing-page-booksapp/static/css/main.a99f0214.css.map",
+    "main.fb918ca8.js.map": "/landing-page-booksapp/static/js/main.fb918ca8.js.map",
     "787.cda612ba.chunk.js.map": "/landing-page-booksapp/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f937d36.css",
-    "static/js/main.ee5bf55b.js"
+    "static/css/main.a99f0214.css",
+    "static/js/main.fb918ca8.js"
   ]
 }
