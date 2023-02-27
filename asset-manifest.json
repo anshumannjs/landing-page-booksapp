@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-page-booksapp/static/css/main.9a150ae4.css",
+    "main.js": "/landing-page-booksapp/static/js/main.634f861c.js",
+    "static/js/787.cda612ba.chunk.js": "/landing-page-booksapp/static/js/787.cda612ba.chunk.js",
+    "static/media/pngfind.com-call-png-3044605.png": "/landing-page-booksapp/static/media/pngfind.com-call-png-3044605.43256c851671f083970c.png",
+    "index.html": "/landing-page-booksapp/index.html",
+    "main.9a150ae4.css.map": "/landing-page-booksapp/static/css/main.9a150ae4.css.map",
+    "main.634f861c.js.map": "/landing-page-booksapp/static/js/main.634f861c.js.map",
+    "787.cda612ba.chunk.js.map": "/landing-page-booksapp/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a150ae4.css",
+    "static/js/main.634f861c.js"
+  ]
+}
