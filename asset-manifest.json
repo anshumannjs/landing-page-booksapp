@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/landing-page-booksapp/static/css/main.7f273afa.css",
-    "main.js": "/landing-page-booksapp/static/js/main.bb0929d0.js",
+    "main.js": "/landing-page-booksapp/static/js/main.b3b60a48.js",
     "static/js/787.cda612ba.chunk.js": "/landing-page-booksapp/static/js/787.cda612ba.chunk.js",
     "static/media/Glassball (1).png": "/landing-page-booksapp/static/media/Glassball (1).21fe044b227a8879d6dc.png",
     "static/media/pngfind.com-call-png-3044605.png": "/landing-page-booksapp/static/media/pngfind.com-call-png-3044605.43256c851671f083970c.png",
     "static/media/Whitney-Book.otf": "/landing-page-booksapp/static/media/Whitney-Book.4812f96cb9a630349a71.otf",
     "index.html": "/landing-page-booksapp/index.html",
     "main.7f273afa.css.map": "/landing-page-booksapp/static/css/main.7f273afa.css.map",
-    "main.bb0929d0.js.map": "/landing-page-booksapp/static/js/main.bb0929d0.js.map",
+    "main.b3b60a48.js.map": "/landing-page-booksapp/static/js/main.b3b60a48.js.map",
     "787.cda612ba.chunk.js.map": "/landing-page-booksapp/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f273afa.css",
-    "static/js/main.bb0929d0.js"
+    "static/js/main.b3b60a48.js"
   ]
 }
